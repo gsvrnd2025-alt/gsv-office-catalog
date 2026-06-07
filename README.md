@@ -23,12 +23,11 @@ All-in-one workspace with:
    - **Train:** `stable`
    - **Branch:** `main`
 3. Wait ~2 minutes → search **"GSV Office"** in Apps
-4. Install and enjoy! 🚀
 
 ## Default Login
 - **Email:** admin@gsv.local  
 - **Password:** Admin@GSV2024
 
-## Docker Images (Public)
+## Docker Images
 - API: `ghcr.io/gsvrnd2025-alt/gsv-office-api:latest`
 - Frontend: `ghcr.io/gsvrnd2025-alt/gsv-office-nginx:latest`
